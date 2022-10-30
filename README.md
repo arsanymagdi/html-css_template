@@ -2,3 +2,4 @@
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning codes
 - for Unzip use 7-zip
+- add any image you want
